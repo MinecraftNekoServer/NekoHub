@@ -4,3 +4,7 @@ main: neko.nekoHub.NekoHub
 api-version: '1.21'
 authors: [ 不穿胖次の小奶猫 ]
 website: https://cnmsb.xin/
+commands:
+  hub:
+    description: 传送到随机大厅
+    usage: /hub
